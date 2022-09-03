@@ -1,0 +1,10 @@
+/.idea/
+/folder_sync/example/
+/client_server/clients_db.bak
+/client_server/clients_db.dat
+/client_server/clients_db.dir
+/client_server/server.log
+/folder_sync/directory_syncer.log*
+/process_monitor/data.csv
+/load_test/
+/folder_sync/filecmp_mkexamples.py
